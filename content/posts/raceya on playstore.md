@@ -1,7 +1,7 @@
 +++
 date = "2023-01-10"
-title = "Raceya on Android
-image = ""
+title = "Raceya on Android"
+image = "images/RaceYa"
 showonlyimage = false
 draft = true
 weight = 0
