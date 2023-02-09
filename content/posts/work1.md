@@ -3,7 +3,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "My First Post"
 image = ""
 showonlyimage = false
-draft = true
+draft = false
 weight = 0
 +++
 
