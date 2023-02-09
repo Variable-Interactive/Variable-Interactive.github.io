@@ -1,7 +1,7 @@
 +++
 date = "2023-01-10"
 title = "Raceya on Android
-image = "https://img.itch.zone/aW1nLzk3ODA2NjgucG5n/315x250%23c/wYzacM.png"
+image = ""
 showonlyimage = false
 draft = false
 weight = 0
