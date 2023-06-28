@@ -1,7 +1,8 @@
 +++
-date = "2023-06-28T14:27:06"
+date = "2023-06-28T14:27:06+05:30"
 title = "Something about myself"
 +++
+
 Hello 👋
 I am a hobyist who likes to make **Indie Games** and participate in **Game Jams**.
 
