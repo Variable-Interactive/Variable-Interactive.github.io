@@ -47,7 +47,7 @@ url = "posts/"
 home = true
 
 [[params.navlinks]]
-name = "About Myself"
+name = "Something about Myself"
 url = "about/"
 
 [[params.navlinks]]

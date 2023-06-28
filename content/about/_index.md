@@ -1,18 +1,21 @@
 +++
-date = "2023-06-28T14:27:06"
-title = "Something about myself"
+date = "2016-11-05T21:05:33+05:30"
+title = "About me"
 +++
-Hello 👋
-I am a hobyist who likes to make **Indie Games** and participate in **Game Jams**.
-Most of my games can be found ![Here][1]
-I also have a ![Youtube Channel][2].
+
+An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+
+Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+
+![This is me][1]
+
+The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
 #### Education
 
-* FSc from ![Tameer-e-Wattan][3].
-* Bs in Physics at ![Govt. Post Graduate College Atd][4].
+* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+* Aliquam tincidunt mauris eu risus.
 
-[1]: https://variable-interactive.itch.io/
-[2]: https://www.youtube.com/channel/UCkc4E2bJkQ91kejNKKd_U2g
-[3]: https://tameeriwattan.edu.pk/
-[4]: https://gpgc-atd.edu.pk/
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+
+[1]: /img/about.jpg
