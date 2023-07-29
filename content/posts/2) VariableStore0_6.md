@@ -1,6 +1,15 @@
-+++ date = "2023-07-29" title = "VariableStore 0.6 Released" image = "images/Store1.png" showonlyimage = false draft = false weight = 0 +++
++++
+date = "2023-07-29"
+title = "VariableStore 0.6 Released"
+image = "images/Store1.png"
+showonlyimage = false
+draft = false
+weight = 0
++++
 
 The next update of VariableStore is here with some significant new features
+
+<!--more-->
 
 1.  Redesigned the UI (I know the old UI looked way too simplistic).
 2.  Tags are now available!!!
