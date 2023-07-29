@@ -10,7 +10,9 @@ The next update of VariableStore is here with some significant new features
 4.  Exposed store link (and the ability to add your own). 
 5.  Added a search system (So that you don't have to scroll much).
 6.  Clicking on thumbnails will enlarge them.
-7.  Hovering over descriptions will show them as a tool tip 
+7.  Hovering over descriptions will show them as a tool tip.
+
+Get it now on Itch.io https://variable-interactive.itch.io/pixelorama-extensions
 
 ![Pic1][1]
 ![Pic2][2]
