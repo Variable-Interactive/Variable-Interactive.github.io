@@ -25,6 +25,6 @@ Get it now on Itch.io https://variable-interactive.itch.io/pixelorama-extensions
 ![Pic2][2]
 ![Pic3][3]
 
-[1]: images/Store1.png
-[2]: images/Store2.png
-[3]: images/Store3.png
+[1]: /images/Store1.png
+[2]: /images/Store2.png
+[3]: /images/Store3.png
