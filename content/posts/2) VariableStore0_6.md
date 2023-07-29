@@ -2,8 +2,6 @@
 
 The next update of VariableStore is here with some significant new features
 
-<!--more-->
-
 1.  Redesigned the UI (I know the old UI looked way too simplistic).
 2.  Tags are now available!!!
 3.  Easy Bug reporting is now possible (So that you can bully me into adding new fratures), don't worry i won't be able to know who you are (unless you tell me yourself)
